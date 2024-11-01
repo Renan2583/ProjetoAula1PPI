@@ -1,0 +1,20 @@
+{
+  "name": "projetoaula1ppi",
+  "version": "1.0.0",
+  "description": "Primeiros passos para desenvolvimento web com Node/JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renan2583/ProjetoAula1PPI.git"
+  },
+  "author": "Renan Coimbra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renan2583/ProjetoAula1PPI/issues"
+  },
+  "homepage": "https://github.com/Renan2583/ProjetoAula1PPI#readme"
+}
